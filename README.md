@@ -37,5 +37,3 @@ sklearn.metrics (accuracy_score, classification_report, confusion_matrix)
 matplotlib.pyplot
 seaborn
 pandas
-### System Architecture
-[Include your system diagram - image or flowchart]
